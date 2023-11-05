@@ -62,6 +62,6 @@ summoning.agency (c) MASTERMIND 2023
 <a href="https://opensea.io/collection/ajenci">agency</a> (pronounded <a href="https://opensea.io/collection/ajenci">ajenci</a>)<br /><br /><br />
 <a href="https://opensea.io/collection/augment">augment</a><br />
 
-################################ <br />
+################################ <br /><br />
 <a href="https://github.com/AUTOMINDx">AUTOMINDx</a><br />
 <a href="https://opensea.io/collection/aglm">aglm</a> autonomous general learning model (c) <a href="https://github.com/Professor-Codephreak">codephreak</a>
