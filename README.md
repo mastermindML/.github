@@ -35,3 +35,15 @@ git clone https://github.com/mastermindML/mastermind.git
 cd mastermind
 # todo upload mastermind
 
+
+Contribution<br />
+
+Join us in the renaissance of machine learning development. Your contributions, whether they're feature suggestions, bug reports, or pull requests, are the catalyst for MASTERMINDML's growth and improvement.<br />
+
+License<br />
+
+MASTERMINDML is open-sourced under the MIT license. Feel free to fork, modify, and use it in your projects.<br />
+
+Embark on your journey to smarter machine learning with MASTERMINDML – where your data's potential is limitless, and every model is a step towards the future of autonomous decision-making.
+
+
