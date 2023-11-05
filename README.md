@@ -44,7 +44,7 @@ License<br />
 
 MASTERMINDML is open-sourced under the MIT license. Feel free to fork, modify, and use it in your projects.<br />
 
-Embark on your journey to smarter machine learning with MASTERMINDML – where your data's potential is limitless, and every model is a step towards the future of autonomous decision-making.<br />
+Embark on your journey to smarter machine learning with MASTERMINDML – stepping stones toward the future of autonomous decision-making<br />
 
 ################################<br />
 
