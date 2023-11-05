@@ -59,5 +59,5 @@ manifest.airt (c) MASTERMIND 2023
 summoning.agency (c) MASTERMIND 2023
 
 ################################<br /><br />
-<a href="https://opensea.io/collection/ajenci">agency</a> (pronounded <a href="https://opensea.io/collection/ajenci">ajenci</a>)<br />
+<a href="https://opensea.io/collection/ajenci">agency</a> (pronounded <a href="https://opensea.io/collection/ajenci">ajenci</a>)<br /><br /><br />
 <a href="https://opensea.io/collection/augment">augment<br />
