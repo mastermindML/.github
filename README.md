@@ -23,9 +23,15 @@ How It Works
     Express Your Goal: Start by describing your machine learning objective in natural language.
     Belief Formation: MASTERMINDML processes your intent and establishes a clear, actionable goal.
     Intention Development: The platform formulates a strategy to create a bespoke machine learning agent.
-    Agent Deployment: Your personalized agent is deployed, ready to tackle your machine learning challenges.
+    Agent Deployment: Your personalized agent is deployed, ready to automate and save you time.
     Feedback Loop: Incorporate results and feedback to refine the agent, optimizing its performance for future tasks.
 
 Getting Started
 
 Clone the repository and follow the documentation to install MASTERMINDML. Begin conversing with the system, and watch as your machine learning models come to life.
+
+'''bash
+git clone https://github.com/MASTERMINDML.git
+cd MASTERMINDML
+# Follow installation and setup instructions
+
