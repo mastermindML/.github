@@ -64,5 +64,4 @@ summoning.agency (c) MASTERMIND 2023
 
 ################################ <br />
 <a href="https://github.com/AUTOMINDx">AUTOMINDx</a><br />
-<a href="https://opensea.io/collection/aglm">aglm</a> autonomous general learning model<br />
-<a href="https://github.com/Professor-Codephreak">codephreak</a>
+<a href="https://opensea.io/collection/aglm">aglm</a> autonomous general learning model (c) <a href="https://github.com/Professor-Codephreak">codephreak</a>
