@@ -57,3 +57,9 @@ manifest.agent (c) MASTERMIND 2023
 nft.agent (c) MASTERMIND 2023
 manifest.airt (c) MASTERMIND 2023
 summoning.agency (c) MASTERMIND 2023
+
+################################
+agency (pronounded <a href="https://opensea.io/collection/ajenci">ajenci</a>)
+<a href="https://opensea.io/collection/ajenci">agency</a>
+https://opensea.io/collection/augment
+https://opensea.io/pythai
