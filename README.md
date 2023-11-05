@@ -1,7 +1,7 @@
 # MASTERMINDML (c) codephreak 2023 MIT
 MASTERMINDML natural language interface adaptive intelligent agency
 
-MASTERMINDML: MASTERMIND Machine Learning
+MASTERMINDML: MASTERMIND Machine Learning<br />
 Description
 
 Welcome to MASTERMINDML, the epicenter of machine learning innovation where complex user desires transform into intelligent digital action. MASTERMINDML is an advanced AI-driven platform, engineered to comprehend, design, and deploy machine learning agents that actualize the intricate wishes of developers and data scientists.
