@@ -3,7 +3,7 @@ MASTERMINDML natural language interface adaptive intelligent agency<br />
 
 <a hef="https://github.com/mastermindML">MASTERMINDML</a> : MASTERMIND Machine Learning<br /><br />
 
-Welcome to MASTERMINDML, the epicenter of machine learning innovation where complex user desires transform into intelligent digital action. MASTERMINDML is an advanced AI-driven platform, engineered to comprehend, design, and deploy machine learning agents that actualize the intricate wishes of developers and data scientists.
+Welcome to <a hef="https://github.com/mastermindML">MASTERMINDML</a>, the epicenter of machine learning innovation where complex user desires transform into intelligent digital action. MASTERMINDML is an advanced AI-driven platform, engineered to comprehend, design, and deploy machine learning agents that actualize the intricate wishes of developers and data scientists.
 
 Harnessing the power of natural language processing and adaptive algorithms, MASTERMINDML interprets user inputs and meticulously crafts them into sophisticated machine learning models. These models embody the essence of MASTERMIND's autonomous agency, delivering not just predictions, but actionable insights that drive decision-making.
 Features
