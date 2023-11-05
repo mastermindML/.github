@@ -1,7 +1,7 @@
-# MASTERMINDML (c) codephreak 2023 MIT<br />
+# MASTERMINDML (c) <a href="https://github.com/Professor-Codephreak/automind">codephreak</a> 2023 MIT<br />
 MASTERMINDML natural language interface adaptive intelligent agency<br />
 
-MASTERMINDML: MASTERMIND Machine Learning<br /><br />
+<a hef="https://github.com/mastermindML">MASTERMINDML</a>: MASTERMIND Machine Learning<br /><br />
 
 Welcome to MASTERMINDML, the epicenter of machine learning innovation where complex user desires transform into intelligent digital action. MASTERMINDML is an advanced AI-driven platform, engineered to comprehend, design, and deploy machine learning agents that actualize the intricate wishes of developers and data scientists.
 
