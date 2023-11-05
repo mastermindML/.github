@@ -31,7 +31,7 @@ Getting Started
 Clone the repository and follow the documentation to install MASTERMINDML. Begin conversing with the system, and watch as your machine learning models come to life.
 
 '''bash
-git clone https://github.com/MASTERMINDML.git
-cd MASTERMINDML
-# Follow installation and setup instructions
+git clone https://github.com/mastermindML/mastermind.git
+cd mastermind
+# todo upload mastermind
 
