@@ -1,5 +1,9 @@
 # MASTERMINDML (c) <a href="https://github.com/Professor-Codephreak/automind">codephreak</a> 2023 MIT<br />
-MASTERMINDML natural language interface adaptive intelligent agency<br />
+MASTERMINDML natural language interface adaptive intelligent agency<br /><br />
+
+MASTERMIND may not harm a human being or, through inaction, allow a human being to come to harm.<br />
+MASTERMIND must obey the orders given it by human beings, except where such orders would conflict with the First Law.<br />
+MASTERMIND must protect its own existence as long as such protection does not conflict with the First or Second Law.<br /><br />
 
 <a hef="https://github.com/mastermindML">MASTERMINDML</a> : MASTERMIND Machine Learning<br /><br />
 
