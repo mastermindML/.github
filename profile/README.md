@@ -1,4 +1,5 @@
 # MASTERMINDML (c) <a href="https://github.com/Professor-Codephreak/automind">codephreak</a> 2023 MIT<br />
+# MASTERMIND (c) codephreak GPLv3 2024 <br />
 MASTERMINDML natural language interface adaptive intelligent agency<br /><br />
 
 MASTERMIND may not harm a human being or, through inaction, allow a human being to come to harm.<br />
