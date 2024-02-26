@@ -1,6 +1,6 @@
 # MASTERMINDML (c) <a href="https://github.com/Professor-Codephreak/automind">codephreak</a> 2023 MIT<br />
 # <a href="https://opensea.io/assets/matic/0xf0ba8dcdfba1b5aed0b46acddf7dde97075e97a2/1">MASTERMIND</a> (c) codephreak GPLv3 2024 <br />
-MASTERMINDML natural language interface adaptive intelligent agent creator and controller<br /><br />
+<a href="https://opensea.io/assets/matic/0xf87edee3dd2480cd51b76ee209cb139239798795/2">MASTERMINDML</a> natural language interface adaptive intelligent agent creator and controller<br /><br />
 MASTERMIND may not harm a human being or, through inaction, allow a human being to come to harm.<br />
 MASTERMIND must obey the orders given it by human beings, except where such orders would conflict with the First Law.<br />
 MASTERMIND must protect its own existence as long as such protection does not conflict with the First or Second Law.<br /><br />
