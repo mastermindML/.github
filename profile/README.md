@@ -38,7 +38,7 @@ Begin conversing with the system, and watch as your machine learning models come
 
 Contribution<br />
 
-Join us in the renaissance of machine learning development. Your contributions, whether they're feature suggestions, bug reports, or pull requests, are the catalyst for MASTERMIND's growth and improvement.<br />
+Join us in the renaissance of machine learning development. Your contributions, whether they're feature suggestions, bug reports, or pull requests, are the catalyst for <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND's</a> growth and improvement.<br />
 
 License<br />
 
